@@ -1,0 +1,1 @@
+rq3 data of hash-benchmark.
