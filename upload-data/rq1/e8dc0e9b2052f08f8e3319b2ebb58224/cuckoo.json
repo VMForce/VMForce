@@ -1,0 +1,122 @@
+[
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "ShellExecuteExW",
+        "arguments": {
+            "parameters": "C:\\hellboy.bat",
+            "filepath": "explorer.exe",
+            "filepath_r": "explorer.exe",
+            "show_type": 0
+        }
+    },
+    {
+        "api": "ShellExecuteExW",
+        "arguments": {
+            "parameters": "http://www.baidu.com/",
+            "filepath": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+            "filepath_r": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+            "show_type": 0
+        }
+    },
+    {
+        "api": "ShellExecuteExW",
+        "arguments": {
+            "parameters": "",
+            "filepath": "C:\\Windows\\mssoft.bat",
+            "filepath_r": "C:\\Windows\\mssoft.bat",
+            "show_type": 0
+        }
+    },
+    {
+        "api": "ShellExecuteExW",
+        "arguments": {
+            "parameters": "C:\\hellboy.bat",
+            "filepath": "explorer.exe",
+            "filepath_r": "explorer.exe",
+            "show_type": 0
+        }
+    }
+]

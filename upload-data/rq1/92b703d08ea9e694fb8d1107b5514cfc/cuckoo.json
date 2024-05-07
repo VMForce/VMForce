@@ -1,0 +1,27 @@
+[
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x6e",
+            "registers": {
+                "esp": 1703556,
+                "edi": 1703556,
+                "eax": 1671559,
+                "ebp": 1703788,
+                "edx": 518,
+                "ebx": 2605056,
+                "esi": 4970055,
+                "ecx": 4964352
+            },
+            "exception": {
+                "instruction_r": "8b 00 89 45 00 e9 c6 ff ff ff 32 0a 0e 26 22 36",
+                "symbol": "1184+0xbd57e",
+                "instruction": "mov eax, dword ptr [eax]",
+                "module": "1184.exe",
+                "exception_code": "0xc0000005",
+                "offset": 775550,
+                "address": "0x4bd57e"
+            }
+        }
+    }
+]

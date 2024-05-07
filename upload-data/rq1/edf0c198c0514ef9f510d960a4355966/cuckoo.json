@@ -1,0 +1,27 @@
+[
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x77467a",
+            "registers": {
+                "esp": 1703744,
+                "edi": 4326557,
+                "eax": 4326518,
+                "ebp": 1703809,
+                "edx": 1981087744,
+                "ebx": 4325376,
+                "esi": 13787382,
+                "ecx": 1
+            },
+            "exception": {
+                "instruction_r": "2e 64 6c 6c 00 41 44 56 41 50 49 33 32 2e 64 6c",
+                "symbol": "1778+0x23b41",
+                "instruction": "insb byte ptr es:[edi], dx",
+                "module": "1778.exe",
+                "exception_code": "0xc0000005",
+                "offset": 146241,
+                "address": "0x423b41"
+            }
+        }
+    }
+]

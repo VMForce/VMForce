@@ -1,0 +1,54 @@
+[
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 212,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x00960000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 212,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02500000"
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00731558",
+            "display_name": "w",
+            "error_control": 0,
+            "service_name": "w",
+            "filepath": "C:\\Windows\\Hacker.com.cn.exe",
+            "filepath_r": "C:\\Windows\\Hacker.com.cn.exe",
+            "service_manager_handle": "0x00731238",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "LookupPrivilegeValueW",
+        "arguments": {
+            "system_name": "",
+            "privilege_name": "SeDebugPrivilege"
+        }
+    }
+]

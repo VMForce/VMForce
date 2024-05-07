@@ -1,0 +1,27 @@
+[
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x2060000",
+            "registers": {
+                "esp": 917128,
+                "edi": 917128,
+                "eax": 0,
+                "ebp": 917322,
+                "edx": 512,
+                "ebx": 2973696,
+                "esi": 1979316782,
+                "ecx": 16781312
+            },
+            "exception": {
+                "instruction_r": "88 10 e9 22 01 00 00 8b 45 00 36 8b 00 89 45 00",
+                "symbol": "1340+0x11c0db",
+                "instruction": "mov byte ptr [eax], dl",
+                "module": "1340.exe",
+                "exception_code": "0xc0000005",
+                "offset": 1163483,
+                "address": "0x111c0db"
+            }
+        }
+    }
+]

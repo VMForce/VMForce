@@ -1,0 +1,10 @@
+[
+    {
+        "api": "Process32NextW",
+        "arguments": {
+            "process_name": "OneDriveStandaloneUpdater.exe",
+            "snapshot_handle": "0x00000138",
+            "process_identifier": 5932
+        }
+    }
+]

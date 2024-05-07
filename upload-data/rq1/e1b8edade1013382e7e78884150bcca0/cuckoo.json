@@ -1,0 +1,37 @@
+[
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "RtlGetAppContainerNamedObjectPath+0x11e RtlInitializeExceptionChain-0x12 ntdll+0x67a4e @ 0x77467a4e\nRtlGetAppContainerNamedObjectPath+0xee RtlInitializeExceptionChain-0x42 ntdll+0x67a1e @ 0x77467a1e",
+            "registers": {
+                "esp": 1703796,
+                "edi": 5146979,
+                "eax": 1703796,
+                "ebp": 1703808,
+                "edx": 5146979,
+                "ebx": 3850240,
+                "esi": 5146979,
+                "ecx": 5146979
+            },
+            "exception": {
+                "symbol": "",
+                "exception_code": "0xc0000005",
+                "address": "0x7330aedb"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 368,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x00760000"
+        }
+    }
+]

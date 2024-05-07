@@ -1,0 +1,270 @@
+[
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " \"C:\\Users\\11989\\AppData\\Local\\Temp\\1754.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "if ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "exist \"C:\\Users\\11989\\AppData\\Local\\Temp\\1754.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "goto",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " try ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " C:\\Windows\\uninstal.bat ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u7cfb\u7edf\u65e0\u6cd5\u5728\u6d88\u606f\u6587\u4ef6\u4e2d\u4e3a Application \u627e\u5230\u6d88\u606f\u53f7\u4e3a 0x236c \u7684\u6d88\u606f\u6587\u672c\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "uppnhost+0x6c483 @ 0x46c483\nuppnhost+0x6c3d1 @ 0x46c3d1\nuppnhost+0x6c392 @ 0x46c392\nuppnhost+0x71e5c @ 0x471e5c\nuppnhost+0x9c1ef @ 0x49c1ef\nuppnhost+0x2d39d @ 0x42d39d\nuppnhost+0x1df11 @ 0x41df11\nAddClipboardFormatListener+0x4b SetThreadDesktop-0x79 user32+0x3eebb @ 0x76a5eebb\nGetClassLongW+0x7aa IsChild-0x296 user32+0x35e7a @ 0x76a55e7a\nDispatchMessageW+0x24a IsWindowUnicode-0x1c6 user32+0x33bea @ 0x76a53bea\nDispatchMessageA+0x10 SystemParametersInfoA-0x10 user32+0x25d70 @ 0x76a45d70\nuppnhost+0x579f7 @ 0x4579f7\nuppnhost+0xa2198 @ 0x4a2198\nBaseThreadInitThunk+0x19 FindResourceExW-0x197 kernel32+0x1fa29 @ 0x75f9fa29",
+            "registers": {
+                "esp": 1702704,
+                "edi": 1702904,
+                "eax": 1702704,
+                "ebp": 1702796,
+                "edx": 0,
+                "ebx": 4630907,
+                "esi": 11001,
+                "ecx": 7
+            },
+            "exception": {
+                "instruction_r": "8b 4c 24 54 33 cc e8 23 4e 00 00 8b e5 5d c2 10",
+                "symbol": "RaiseException+0x62 WerRegisterMemoryBlock-0x2e kernelbase+0x12a6e2",
+                "instruction": "mov ecx, dword ptr [esp + 0x54]",
+                "module": "KERNELBASE.dll",
+                "exception_code": "0xeedfade",
+                "offset": 1222370,
+                "address": "0x7547a6e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "uppnhost+0x6c483 @ 0x46c483\nuppnhost+0x6c3d1 @ 0x46c3d1\nuppnhost+0x6c392 @ 0x46c392\nuppnhost+0x71e5c @ 0x471e5c\nuppnhost+0x9c1ef @ 0x49c1ef\nuppnhost+0x2d39d @ 0x42d39d\nuppnhost+0x1df11 @ 0x41df11\nAddClipboardFormatListener+0x4b SetThreadDesktop-0x79 user32+0x3eebb @ 0x76a5eebb\nGetClassLongW+0x7aa IsChild-0x296 user32+0x35e7a @ 0x76a55e7a\nDispatchMessageW+0x24a IsWindowUnicode-0x1c6 user32+0x33bea @ 0x76a53bea\nDispatchMessageA+0x10 SystemParametersInfoA-0x10 user32+0x25d70 @ 0x76a45d70\nuppnhost+0x579f7 @ 0x4579f7\nuppnhost+0xa2198 @ 0x4a2198\nBaseThreadInitThunk+0x19 FindResourceExW-0x197 kernel32+0x1fa29 @ 0x75f9fa29",
+            "registers": {
+                "esp": 1702704,
+                "edi": 1702904,
+                "eax": 1702704,
+                "ebp": 1702796,
+                "edx": 0,
+                "ebx": 4630907,
+                "esi": 11001,
+                "ecx": 7
+            },
+            "exception": {
+                "instruction_r": "8b 4c 24 54 33 cc e8 23 4e 00 00 8b e5 5d c2 10",
+                "symbol": "RaiseException+0x62 WerRegisterMemoryBlock-0x2e kernelbase+0x12a6e2",
+                "instruction": "mov ecx, dword ptr [esp + 0x54]",
+                "module": "KERNELBASE.dll",
+                "exception_code": "0xeedfade",
+                "offset": 1222370,
+                "address": "0x7547a6e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "uppnhost+0x6c483 @ 0x46c483\nuppnhost+0x6c3d1 @ 0x46c3d1\nuppnhost+0x6c392 @ 0x46c392\nuppnhost+0x71e5c @ 0x471e5c\nuppnhost+0x9c1ef @ 0x49c1ef\nuppnhost+0x2d39d @ 0x42d39d\nuppnhost+0x1df11 @ 0x41df11\nAddClipboardFormatListener+0x4b SetThreadDesktop-0x79 user32+0x3eebb @ 0x76a5eebb\nGetClassLongW+0x7aa IsChild-0x296 user32+0x35e7a @ 0x76a55e7a\nDispatchMessageW+0x24a IsWindowUnicode-0x1c6 user32+0x33bea @ 0x76a53bea\nDispatchMessageA+0x10 SystemParametersInfoA-0x10 user32+0x25d70 @ 0x76a45d70\nuppnhost+0x579f7 @ 0x4579f7\nuppnhost+0xa2198 @ 0x4a2198\nBaseThreadInitThunk+0x19 FindResourceExW-0x197 kernel32+0x1fa29 @ 0x75f9fa29",
+            "registers": {
+                "esp": 1702704,
+                "edi": 1702904,
+                "eax": 1702704,
+                "ebp": 1702796,
+                "edx": 0,
+                "ebx": 4630907,
+                "esi": 11001,
+                "ecx": 7
+            },
+            "exception": {
+                "instruction_r": "8b 4c 24 54 33 cc e8 23 4e 00 00 8b e5 5d c2 10",
+                "symbol": "RaiseException+0x62 WerRegisterMemoryBlock-0x2e kernelbase+0x12a6e2",
+                "instruction": "mov ecx, dword ptr [esp + 0x54]",
+                "module": "KERNELBASE.dll",
+                "exception_code": "0xeedfade",
+                "offset": 1222370,
+                "address": "0x7547a6e2"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 688,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x00770000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 688,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02510000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 2412,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x00970000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 2412,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02420000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 2412,
+            "region_size": 1445888,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02970000"
+        }
+    },
+    {
+        "api": "LookupPrivilegeValueW",
+        "arguments": {
+            "system_name": "",
+            "privilege_name": "SeDebugPrivilege"
+        }
+    },
+    {
+        "api": "LookupPrivilegeValueW",
+        "arguments": {
+            "system_name": "",
+            "privilege_name": "SeDebugPrivilege"
+        }
+    },
+    {
+        "api": "NtUnmapViewOfSection",
+        "arguments": {
+            "process_identifier": 7172,
+            "region_size": 2110836736,
+            "process_handle": "0x0000027c",
+            "base_address": "0x022d3de8"
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000027c",
+            "suspend_count": 1,
+            "process_identifier": 2412
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000027c",
+            "suspend_count": 1,
+            "process_identifier": 7216
+        }
+    }
+]

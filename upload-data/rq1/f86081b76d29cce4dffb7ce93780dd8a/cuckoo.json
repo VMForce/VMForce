@@ -1,0 +1,27 @@
+[
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x005fa500",
+            "display_name": "Remote network Help  Control Service",
+            "error_control": 0,
+            "service_name": "netctrl",
+            "filepath": "C:\\Windows\\System32\\svchost.exe -k remoteservice",
+            "filepath_r": "C:\\Windows\\system32\\svchost.exe -k remoteservice",
+            "service_manager_handle": "0x005fa4d8",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000001d0",
+            "suspend_count": 1,
+            "process_identifier": 6416
+        }
+    }
+]

@@ -1,0 +1,681 @@
+[
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x00710000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 2516,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x00474000"
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x0073f3e0",
+            "display_name": "BlackHole Remote Control Services",
+            "error_control": 0,
+            "service_name": "BRC_Services",
+            "filepath": "C:\\Windows\\System32\\svchost.exe -k netsvcs",
+            "filepath_r": "C:\\Windows\\system32\\svchost.exe -k netsvcs",
+            "service_manager_handle": "0x0073ee18",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "RegOpenKeyExA",
+        "arguments": {
+            "access": "0x00020009",
+            "base_handle": "0x80000002",
+            "key_handle": "0x00000000",
+            "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BlackHole Remote Control Services",
+            "regkey_r": "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BlackHole Remote Control Services",
+            "options": 0
+        }
+    }
+]

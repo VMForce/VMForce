@@ -1,0 +1,10 @@
+[
+    {
+        "api": "SetFileAttributesW",
+        "arguments": {
+            "file_attributes": 2,
+            "filepath_r": "C:\\Documents and Settings\\Local User",
+            "filepath": "C:\\Documents and Settings\\Local User"
+        }
+    }
+]
