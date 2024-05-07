@@ -1,0 +1,1 @@
+rq3 data for table 4 to table 7.

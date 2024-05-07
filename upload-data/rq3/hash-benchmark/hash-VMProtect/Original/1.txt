@@ -1,0 +1,10 @@
+_SECRET
+0x4015b6 jz 0
+0x401682 jge 1
+0x4016ee jnb 2
+0x401715 jnb 3
+0x401770 jnb 4
+0x4017d2 jnb 5
+_main
+0x4019b2 jge 6
+Total count: 7

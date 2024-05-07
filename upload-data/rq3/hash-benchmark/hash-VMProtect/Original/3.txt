@@ -1,0 +1,5 @@
+_SECRET
+0x401536 jz 0
+_main
+0x4015d0 jge 1
+Total count: 2
