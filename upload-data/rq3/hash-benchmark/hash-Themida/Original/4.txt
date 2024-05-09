@@ -1,0 +1,5 @@
+_siphash24
+0x4015ca jb 0
+_main
+0x402120 jge 1
+Total count: 2
