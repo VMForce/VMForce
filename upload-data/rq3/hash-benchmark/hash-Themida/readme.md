@@ -7,3 +7,6 @@ assembly code of the obfuscated program completely, we show these codes in each 
 
 # VMForce
 This folder contains 10 files. Each file has several lines and each line is made up of a tuple defined in **Algorithm 1, line 50** and a correspoding number of this branch.
+
+# Generic
+This folder contains 10 files. Each file has the results of Generic Deobfuscator.

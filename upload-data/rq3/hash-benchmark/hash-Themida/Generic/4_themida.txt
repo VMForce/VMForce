@@ -1,0 +1,2 @@
+recovered_jcc_cnt = 2
+recovered_jxx_cnt = 78
