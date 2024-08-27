@@ -1,1 +1,1 @@
-Here is the result of VMForce on the latest versions of VMProtect (3.8.4) and Themida (3.1.8) using the Hash benchmark.
+Here is the result of VMForce on the latest versions of VMProtect (3.8.4) , Themida (3.1.8) ,Enigma(6.70) and Tigress(3.1) using the Hash benchmark and the program mcf.
