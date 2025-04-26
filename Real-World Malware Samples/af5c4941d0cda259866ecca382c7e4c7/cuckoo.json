@@ -1,0 +1,821 @@
+[
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x21eea8c",
+            "registers": {
+                "esp": 1703652,
+                "edi": 35323904,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 504,
+                "ebx": 36844177,
+                "esi": 35624860,
+                "ecx": 35596780
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 f0 2e",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x21eff66"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x34c0000\n0x21eff7d\n0x21eea8c",
+            "registers": {
+                "esp": 1701436,
+                "edi": 1657421,
+                "eax": 0,
+                "ebp": 1701484,
+                "edx": 0,
+                "ebx": 0,
+                "esi": 37307975,
+                "ecx": 37329344
+            },
+            "exception": {
+                "instruction_r": "cc 90 eb 01 69 66 81 fe 47 46 74 05 31 c0 40 eb",
+                "instruction": "int3",
+                "exception_code": "0x80000003",
+                "symbol": "",
+                "address": "0x21ee2ba"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x21ef718",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35323904,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 504,
+                "ebx": 35586012,
+                "esi": 34930688,
+                "ecx": 35596780
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 52 3e",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x21ef004"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x21f0078",
+            "registers": {
+                "esp": 1703648,
+                "edi": 35323904,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 504,
+                "ebx": 35586012,
+                "esi": 34930688,
+                "ecx": 35596780
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2f e9 d4 3a",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x21ef382"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x21f01ab",
+            "registers": {
+                "esp": 1703624,
+                "edi": 35342925,
+                "eax": 0,
+                "ebp": 1703704,
+                "edx": 0,
+                "ebx": 0,
+                "esi": 34948679,
+                "ecx": 0
+            },
+            "exception": {
+                "instruction_r": "cc 90 eb 01 69 66 81 fe 47 46 74 05 31 c0 40 eb",
+                "instruction": "int3",
+                "exception_code": "0x80000003",
+                "symbol": "",
+                "address": "0x21ee2ba"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 344064,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02150000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 344064,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x021b0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x021a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02410000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02420000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02430000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02440000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02450000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02460000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02470000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02480000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02490000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024b0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024c0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024d0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024f0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02500000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02510000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02520000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02530000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02540000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02550000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02560000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02570000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02580000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02590000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025b0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025d0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025f0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02600000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02610000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02620000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02630000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02640000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02650000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02660000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02670000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02680000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02690000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026b0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026c0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026d0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026f0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3056,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02700000"
+        }
+    }
+]

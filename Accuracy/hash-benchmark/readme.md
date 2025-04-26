@@ -1,0 +1,1 @@
+Accuracy data of hash-benchmark.

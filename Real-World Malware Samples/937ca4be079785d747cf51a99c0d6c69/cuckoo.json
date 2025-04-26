@@ -1,0 +1,50 @@
+[
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u79fb\u52a8\u4e86         1 \u4e2a\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "2+0x1c0e @ 0x401c0e",
+            "registers": {
+                "esp": 915672,
+                "edi": 0,
+                "eax": 2033263205,
+                "ebp": 915732,
+                "edx": 0,
+                "ebx": 4294967295,
+                "esi": 0,
+                "ecx": 794807381
+            },
+            "exception": {
+                "instruction_r": "39 46 0c 75 0b e8 1b 01 00 00 61 f8 c9 c2 10 00",
+                "symbol": "2+0x17dc",
+                "instruction": "cmp dword ptr [esi + 0xc], eax",
+                "module": "2.8-Install.exe",
+                "exception_code": "0xc0000005",
+                "offset": 6108,
+                "address": "0x4017dc"
+            }
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000154",
+            "suspend_count": 1,
+            "process_identifier": 5980
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000154",
+            "suspend_count": 1,
+            "process_identifier": 7352
+        }
+    }
+]

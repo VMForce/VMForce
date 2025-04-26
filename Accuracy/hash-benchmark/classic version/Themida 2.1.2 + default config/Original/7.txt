@@ -1,0 +1,3 @@
+_main
+0x401612 jge 0
+Total count: 1

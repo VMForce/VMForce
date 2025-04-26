@@ -1,0 +1,27 @@
+[
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "405+0x4e3b4 @ 0x44e3b4\nRtlGetAppContainerNamedObjectPath+0x11e RtlInitializeExceptionChain-0x12 ntdll+0x67a4e @ 0x77467a4e\nRtlGetAppContainerNamedObjectPath+0xee RtlInitializeExceptionChain-0x42 ntdll+0x67a1e @ 0x77467a1e",
+            "registers": {
+                "esp": 1703700,
+                "edi": 4514742,
+                "eax": 2617027244,
+                "ebp": 1703756,
+                "edx": 1979315392,
+                "ebx": 3731456,
+                "esi": 4514742,
+                "ecx": 4513983
+            },
+            "exception": {
+                "instruction_r": "8b 58 04 03 5d dc 8b fb 8b 45 dc 8b 30 4e 85 f6",
+                "symbol": "405+0x4e23f",
+                "instruction": "mov ebx, dword ptr [eax + 4]",
+                "module": "405.exe",
+                "exception_code": "0xc0000005",
+                "offset": 320063,
+                "address": "0x44e23f"
+            }
+        }
+    }
+]

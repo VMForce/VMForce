@@ -1,0 +1,7 @@
+_jody_block_hash
+0x401536 jnz 0
+0x401572 jbe 1
+0x40166a jz 2
+_main
+0x4017f0 jge 3
+Total count: 4

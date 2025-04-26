@@ -1,0 +1,7 @@
+_hash_inc
+0x401549 jle 0
+0x401567 jnz 1
+0x4015a3 jle 2
+_main
+0x401770 jge 3
+Total count: 4

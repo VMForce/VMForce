@@ -1,0 +1,572 @@
+[
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " \"C:\\Users\\11989\\AppData\\Local\\Temp\\1677.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "if ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "exist \"C:\\Users\\11989\\AppData\\Local\\Temp\\1677.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "goto",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " try ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " \"C:\\Program Files\\Common Files\\Microsoft Shared\\MSINFO\\DelSvel.bat\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u7cfb\u7edf\u65e0\u6cd5\u5728\u6d88\u606f\u6587\u4ef6\u4e2d\u4e3a Application \u627e\u5230\u6d88\u606f\u53f7\u4e3a 0x236c \u7684\u6d88\u606f\u6587\u672c\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "",
+            "registers": {
+                "r14": 0,
+                "r9": 140720826023936,
+                "rcx": 140694992661072,
+                "rsi": 0,
+                "r10": 140720826361425,
+                "rbx": 1,
+                "rdi": 140694992676096,
+                "r11": 309515777168,
+                "r8": 0,
+                "rdx": 309517701712,
+                "rbp": 309515779584,
+                "r15": 140694992676104,
+                "r12": 0,
+                "rsp": 309515779480,
+                "rax": 1615115154688,
+                "r13": 0
+            },
+            "exception": {
+                "symbol": "",
+                "exception_code": "0xc0000005",
+                "address": "0x0"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 4720,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x009e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 4720,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x009e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 4720,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x00a20000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7452,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x021a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7452,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x021a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7452,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x023e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7452,
+            "region_size": 1445888,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02530000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7452,
+            "region_size": 1445888,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026a0000"
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "",
+            "registers": {
+                "r14": 0,
+                "r9": 140720826023936,
+                "rcx": 140694992661072,
+                "rsi": 0,
+                "r10": 140720826361425,
+                "rbx": 1,
+                "rdi": 140694992676096,
+                "r11": 309515777168,
+                "r8": 0,
+                "rdx": 309517701712,
+                "rbp": 309515779584,
+                "r15": 140694992676104,
+                "r12": 0,
+                "rsp": 309515779480,
+                "rax": 1615115154688,
+                "r13": 0
+            },
+            "exception": {
+                "symbol": "",
+                "exception_code": "0xc0000005",
+                "address": "0x0"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7812,
+            "region_size": 1445888,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00400000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7904,
+            "region_size": 1445888,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000288",
+            "allocation_type": 12288,
+            "base_address": "0x00ae0000"
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x006bc370",
+            "display_name": "Windows File slote",
+            "error_control": 0,
+            "service_name": "Windows File slote",
+            "filepath": "C:\\Program Files\\Common Files\\Microsoft Shared\\MSInfo\\gb32.exe",
+            "filepath_r": "C:\\Program Files\\Common Files\\Microsoft Shared\\MSINFO\\gb32.exe",
+            "service_manager_handle": "0x006bc460",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "NtUnmapViewOfSection",
+        "arguments": {
+            "process_identifier": 7812,
+            "region_size": 4096,
+            "process_handle": "0x00000280",
+            "base_address": "0x00200000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7812,
+            "region_size": 1445888,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00400000"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7812,
+            "buffer": "\u0000\u0000@\u0000",
+            "process_handle": "0x00000280",
+            "base_address": "0x02882008"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7904,
+            "buffer": "\u0000\u0000\u00ae\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0014&\u001a\u0002\u00b8\u00e0\u001e\u0002\u0088\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0098\u00fc\u0019\u0000\n\u00f9H\u0000<\u00fe\u0019\u0000\u0000\u0010\u0016\u0000\u0000\u0000j\u0002\u00a4\u00fc\u0019\u00004\u00f9H\u0000\u0098\u00fc\u0019\u0000[\u00e8P\u0000[\u00e8P\u0000\u0018%\u001a\u0002\u0000\u0010\u0016\u0000\u0000\u0000j\u0002\u00f8\u0001j\u0002\u0000\u0001j\u0002\u0000\u0000\u0000\u0000P\u00fe\u0019\u0000\u009b\u00ebI\u0000<\u00fe\u0019\u0000\u00b0\u00fc\u0019\u0000\u00b1\u00ebI\u0000P\u00fe\u0019\u0000\\\u00ff\u0019\u0000\u000b\u00ecI\u0000P\u00fe\u0019\u0000[\u00e8P\u0000[\u00e8P\u0000\u0000\u00e0+\u0000 \u00e0\u001e\u0002\u00dc%\u001a\u0002\u0090%\u001a\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00011\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000D%\u001a\u0002\u0000%\u001a\u0002\u0004$\u001a\u0002\u00dc$\u001a\u0002X$\u001a\u0002\u00f4#\u001a\u0002\u0014$\u001a\u0002\u00dc#\u001a\u0002x#\u001a\u0002\u00c4#\u001a\u0002\\#\u001a\u0002\u00f0 \u001a\u0002D#\u001a\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e0\u001e\u0000\u0000\u0000&\u001a\u0002\u0014&\u001a\u0002\u0018%\u001a\u0002p$\u001a\u0002h\u00ff\u0019\u0000.\u00f1I\u0000\u0018\u0000\u0000\u0000\u00d6;\u00b1s\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000\u0082{L\u0000\u0000\u0000\u0000\u0000\u0000\u00ff\u0019\u0000g\u0012\u00ads\u00c8\u00fe\u0019\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00c8\u00fe\u0019\u0000\u00ff\u00ff\u00ff\u00ff \u00ff\u0019\u0000$\u00ff\u0019\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c\u001d\u0000\u0000\u0000\u0000\u0000\u00005\u0000\n\u0000\b\u009bk\u0000x\u009ck\u0000\u00a8\u00b4j\u0000\u001c\u001d\u0000\u0000E\u0000\u0000\u00c0W\u0000\u0000\u0000\u00b6;Dw\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00d4K?\u0007\u00000L\u0000\u00adrFu\u0000\u0000\u00efs\f\u00ff\u0019\u0000\u0082{L\u0000\buL\u0000\u00d5_L\u0000(\u00ff\u0019\u0000\u00ea)Gu[\u00e8P\u0000[\u00e8P\u0000\u0000\u0000\u0000\u0000[\u00e8P\u0000[\b%\u0000[\u00e8P\u0000[\b%\u0000[\u00e8P\u0000[\b%\u0000[\u00e8P\u0000[\b%\u0000[\b%\u0000[\u00e8P\u0000[\u00e8P\u0000[\u00e8P\u0000[\u00e8P\u0000\u00a2\u0000L\u0000[\u00e8P\u0000[\u00e8P\u0000\u0080\u00ff\u0019\u0000l\u00ff\u0019\u0000\u00cc\u00ff\u0019\u0000_G@\u0000h\u00ff\u0019\u0000\u0080\u00ff\u0019\u0000\n0L\u0000\u0090\u0090\u0090\u0090)\u00fa\u00f9u\u0000\u00e0+\u0000\u0010\u00fa\u00f9u\u00dc\u00ff\u0019\u0000NzFw\u0000\u00e0+\u0000\u00ecJ?\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e0+\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u008c\u00ff\u0019\u0000\u0000\u0000\u0000\u0000\u00e4\u00ff\u0019\u0000\u0010\u00adGw\u00a0svp\u0000\u0000\u0000\u0000\u00ec\u00ff\u0019\u0000\u001ezFw\u00ff\u00ff\u00ff\u00ff\u00f2\u0088Hw\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u00e8P\u0000\u0000\u00e0+\u0000\u0000\u0000\u0000\u0000C\u0000:\u0000\\\u0000t\u0000m\u0000p\u0000v\u00006\u0000w\u0000h\u0000a\u0000q\u0000\\\u0000b\u0000i\u0000n\u0000\\\u0000m\u0000o\u0000n\u0000i\u0000t\u0000o\u0000r\u0000-\u0000x\u00008\u00006\u0000.\u0000d\u0000",
+            "process_handle": "0x00000288",
+            "base_address": "0x00161008"
+        }
+    },
+    {
+        "api": "NtSetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "registers": {
+                "eip": 2001162048,
+                "esp": 41614748,
+                "edi": 0,
+                "eax": 5302363,
+                "ebp": 0,
+                "edx": 0,
+                "ebx": 42475520,
+                "esi": 0,
+                "ecx": 0
+            },
+            "process_identifier": 7812
+        }
+    },
+    {
+        "api": "NtSetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "registers": {
+                "eip": 1,
+                "esp": 309760,
+                "edi": 64,
+                "eax": 12511323,
+                "ebp": 0,
+                "edx": 40501248,
+                "ebx": 1445888,
+                "esi": 1703052,
+                "ecx": 1703000
+            },
+            "process_identifier": 7904
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002ac",
+            "suspend_count": 1,
+            "process_identifier": 7452
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002ac",
+            "suspend_count": 1,
+            "process_identifier": 8060
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "suspend_count": 1,
+            "process_identifier": 7812
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "suspend_count": 1,
+            "process_identifier": 7904
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002ac",
+            "suspend_count": 1,
+            "process_identifier": 7452
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002ac",
+            "suspend_count": 1,
+            "process_identifier": 8060
+        }
+    },
+    {
+        "api": "NtGetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c"
+        }
+    },
+    {
+        "api": "NtUnmapViewOfSection",
+        "arguments": {
+            "process_identifier": 7812,
+            "region_size": 4096,
+            "process_handle": "0x00000280",
+            "base_address": "0x00200000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7812,
+            "region_size": 1445888,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00400000"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7812,
+            "buffer": "\u0000\u0000@\u0000",
+            "process_handle": "0x00000280",
+            "base_address": "0x02882008"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7812,
+            "buffer": "",
+            "process_handle": "0x00000280",
+            "base_address": "0x00400000"
+        }
+    },
+    {
+        "api": "NtSetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "registers": {
+                "eip": 2001162048,
+                "esp": 41614748,
+                "edi": 0,
+                "eax": 5302363,
+                "ebp": 0,
+                "edx": 0,
+                "ebx": 42475520,
+                "esi": 0,
+                "ecx": 0
+            },
+            "process_identifier": 7812
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "suspend_count": 1,
+            "process_identifier": 7812
+        }
+    },
+    {
+        "api": "NtGetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c"
+        }
+    },
+    {
+        "api": "NtUnmapViewOfSection",
+        "arguments": {
+            "process_identifier": 7904,
+            "region_size": 2112086016,
+            "process_handle": "0x00000288",
+            "base_address": "0x021a2614"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7904,
+            "region_size": 1445888,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000288",
+            "allocation_type": 12288,
+            "base_address": "0x00ae0000"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7904,
+            "buffer": "\u0000\u0000\u00ae\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0014&\u001a\u0002\u00b8\u00e0\u001e\u0002\u0088\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0098\u00fc\u0019\u0000\n\u00f9H\u0000<\u00fe\u0019\u0000\u0000\u0010\u0016\u0000\u0000\u0000j\u0002\u00a4\u00fc\u0019\u00004\u00f9H\u0000\u0098\u00fc\u0019\u0000[\u00e8P\u0000[\u00e8P\u0000\u0018%\u001a\u0002\u0000\u0010\u0016\u0000\u0000\u0000j\u0002\u00f8\u0001j\u0002\u0000\u0001j\u0002\u0000\u0000\u0000\u0000P\u00fe\u0019\u0000\u009b\u00ebI\u0000<\u00fe\u0019\u0000\u00b0\u00fc\u0019\u0000\u00b1\u00ebI\u0000P\u00fe\u0019\u0000\\\u00ff\u0019\u0000\u000b\u00ecI\u0000P\u00fe\u0019\u0000[\u00e8P\u0000[\u00e8P\u0000\u0000\u00e0+\u0000 \u00e0\u001e\u0002\u00dc%\u001a\u0002\u0090%\u001a\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00011\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000D%\u001a\u0002\u0000%\u001a\u0002\u0004$\u001a\u0002\u00dc$\u001a\u0002X$\u001a\u0002\u00f4#\u001a\u0002\u0014$\u001a\u0002\u00dc#\u001a\u0002x#\u001a\u0002\u00c4#\u001a\u0002\\#\u001a\u0002\u00f0 \u001a\u0002D#\u001a\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e0\u001e\u0000\u0000\u0000&\u001a\u0002\u0014&\u001a\u0002\u0018%\u001a\u0002p$\u001a\u0002h\u00ff\u0019\u0000.\u00f1I\u0000\u0018\u0000\u0000\u0000\u00d6;\u00b1s\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000\u0082{L\u0000\u0000\u0000\u0000\u0000\u0000\u00ff\u0019\u0000g\u0012\u00ads\u00c8\u00fe\u0019\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00c8\u00fe\u0019\u0000\u00ff\u00ff\u00ff\u00ff \u00ff\u0019\u0000$\u00ff\u0019\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c\u001d\u0000\u0000\u0000\u0000\u0000\u00005\u0000\n\u0000\b\u009bk\u0000x\u009ck\u0000\u00a8\u00b4j\u0000\u001c\u001d\u0000\u0000E\u0000\u0000\u00c0W\u0000\u0000\u0000\u00b6;Dw\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00d4K?\u0007\u00000L\u0000\u00adrFu\u0000\u0000\u00efs\f\u00ff\u0019\u0000\u0082{L\u0000\buL\u0000\u00d5_L\u0000(\u00ff\u0019\u0000\u00ea)Gu[\u00e8P\u0000[\u00e8P\u0000\u0000\u0000\u0000\u0000[\u00e8P\u0000[\b%\u0000[\u00e8P\u0000[\b%\u0000[\u00e8P\u0000[\b%\u0000[\u00e8P\u0000[\b%\u0000[\b%\u0000[\u00e8P\u0000[\u00e8P\u0000[\u00e8P\u0000[\u00e8P\u0000\u00a2\u0000L\u0000[\u00e8P\u0000[\u00e8P\u0000\u0080\u00ff\u0019\u0000l\u00ff\u0019\u0000\u00cc\u00ff\u0019\u0000_G@\u0000h\u00ff\u0019\u0000\u0080\u00ff\u0019\u0000\n0L\u0000\u0090\u0090\u0090\u0090)\u00fa\u00f9u\u0000\u00e0+\u0000\u0010\u00fa\u00f9u\u00dc\u00ff\u0019\u0000NzFw\u0000\u00e0+\u0000\u00ecJ?\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e0+\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u008c\u00ff\u0019\u0000\u0000\u0000\u0000\u0000\u00e4\u00ff\u0019\u0000\u0010\u00adGw\u00a0svp\u0000\u0000\u0000\u0000\u00ec\u00ff\u0019\u0000\u001ezFw\u00ff\u00ff\u00ff\u00ff\u00f2\u0088Hw\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000[\u00e8P\u0000\u0000\u00e0+\u0000\u0000\u0000\u0000\u0000C\u0000:\u0000\\\u0000t\u0000m\u0000p\u0000v\u00006\u0000w\u0000h\u0000a\u0000q\u0000\\\u0000b\u0000i\u0000n\u0000\\\u0000m\u0000o\u0000n\u0000i\u0000t\u0000o\u0000r\u0000-\u0000x\u00008\u00006\u0000.\u0000d\u0000",
+            "process_handle": "0x00000288",
+            "base_address": "0x00161008"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7904,
+            "buffer": "",
+            "process_handle": "0x00000288",
+            "base_address": "0x00ae0000"
+        }
+    },
+    {
+        "api": "NtSetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "registers": {
+                "eip": 1,
+                "esp": 309760,
+                "edi": 64,
+                "eax": 12511323,
+                "ebp": 0,
+                "edx": 40501248,
+                "ebx": 1445888,
+                "esi": 1703052,
+                "ecx": 1703000
+            },
+            "process_identifier": 7904
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "suspend_count": 1,
+            "process_identifier": 7904
+        }
+    }
+]

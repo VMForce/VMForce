@@ -1,0 +1,27 @@
+[
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "RtlGetAppContainerNamedObjectPath+0x11d RtlInitializeExceptionChain-0x13 ntdll+0x67a4d @ 0x77467a4d\n0xecd35ede",
+            "registers": {
+                "esp": 1703796,
+                "edi": 320438322,
+                "eax": 1703935,
+                "ebp": 1703808,
+                "edx": 320438322,
+                "ebx": 3723264,
+                "esi": 320438322,
+                "ecx": 320438322
+            },
+            "exception": {
+                "instruction_r": "81 30 71 56 94 4e 81 28 1a 6a 8f 35 83 c0 04 3d",
+                "symbol": "1599+0x58006",
+                "instruction": "xor dword ptr [eax], 0x4e945671",
+                "module": "1599.exe",
+                "exception_code": "0xc0000005",
+                "offset": 360454,
+                "address": "0x13198006"
+            }
+        }
+    }
+]

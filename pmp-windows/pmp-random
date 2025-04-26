@@ -1,0 +1,254 @@
+#!/usr/bin/env python
+
+import os
+import shutil
+import socket
+import subprocess
+import sys
+import threading
+import signal
+import time
+import sys
+
+BREAKPOINT = {}
+
+BLACKHOLE = {"44c29c": "F", "4535ce": "F", "453957": "F", "453d55": "F", "453e39": "T", "4541b0": "T", "4afc8b": "T", "4b3f85": "T", "4b5304": "T", "4ba717": "T", "4ba465": "T", "4bae20": "T", "44c6d0": "F", "44c6e9": "F", "44c865": "F", "4a2595": "T"} #gap
+BLACKHOLE = {}
+#BLACKHOLE = {"429709": "F", "42cf8b": "F", "424d97": "T", "40aa76": "T", "42eced": "T", "4254fa": "F", "403ce3": "T", "42b152": "T", "40c49e": "F", "40a4e2": "F", "42971a": "T", "429e8f": "T", "42cf7f": "F", "42b0f0": "F", "427baa": "F", "42a644": "T", "403a9d": "T", "42e9ae": "T", "406f21": "T", "42b101": "T", "42955c": "T", "40af3d": "T", "401fe6": "F", "402d17": "F", "40b169": "F", "4295ab": "F", "40c696": "T", "404243": "T", "429b5b": "T", "4299d3": "T", "42e33f": "F", "429d9c": "F", "40ccc9": "T", "42a0a7": "T", "42dfd8": "T", "401a1c": "T", "429fa9": "F", "429f59": "F", "4252ba": "F", "42a710": "T", "42a3d0": "F", "42a318": "T", "40a4fe": "T", "40a668": "T", "402da7": "T", "41c9cf": "T", "4025a5": "T", "42ec63": "T", "40d007": "T", "4295b1": "F", "42cf29": "T", "42e0bd": "T", "42e128": "F", "42e119": "F", "424290": "T", "402e63": "T", "42dec4": "T", "429c82": "T", "402b99": "T", "420096": "T", "429e6b": "F", "401a08": "F", "40ad9d": "T", "40a1aa": "F", "40cc5c": "T", "429ef2": "T", "40ac09": "T", "40a352": "F", "42e924": "T", "423362": "T", "4095f8": "T", "42a6d9": "T", "42a29d": "F", "42b33a": "T", "409b29": "T", "41aad6": "F", "407ddb": "T", "42df4e": "T", "4284af": "F", "40a081": "T", "42acc6": "T", "429671": "T", "429d44": "T", "42e0fd": "F", "42043e": "T", "42d0cb": "T", "42ee9c": "T", "42e717": "T", "40a723": "T", "41b4ce": "T", "40964f": "T", "429855": "F", "42a06b": "T", "40cf90": "T", "42a48c": "T", "40a370": "T", "429c97": "F", "403d4f": "T", "42eb41": "T", "4298be": "F", "424a5f": "T", "42ad13": "T", "42bd65": "T", "41cb46": "T", "401cbf": "T", "42d352": "T", "42ba1a": "F", "42ceb1": "T", "4039dc": "F", "4073ff": "T", "42eefa": "F", "429bbf": "F", "40a221": "T", "429e23": "T", "42ade0": "T", "42ce62": "T", "40a44a": "T", "409bfa": "T", "409ee5": "T", "42ae5f": "T", "4022ff": "T", "402ca6": "T", "409768": "T", "42a359": "T", "407892": "F", "40cc06": "T", "4079b0": "T", "42e5aa": "T", "42a568": "T", "429bd8": "T", "42a2cf": "T", "40a5ae": "T", "40ba4a": "T", "4295c5": "F", "42e243": "T", "42ef11": "T", "40dfbb": "T", "4075ad": "T", "429b9a": "F", "416383": "T", "429d88": "F", "42d215": "T", "427be9": "F", "409d21": "T", "42e144": "T", "42a528": "T", "424419": "T", "402791": "T", "40946d": "T", "41a71c": "T", "41725e": "T", "403c7f": "T", "409e24": "T", "407263": "T", "402b60": "T", "401c1d": "T", "42e3f9": "F", "42e38b": "T", "42a1e5": "T", "429db0": "F", "427614": "T", "429bb3": "F", "40a7b5": "T", "4298d9": "T", "40db39": "T", "42aa0e": "T", "42d062": "T", "40217a": "T", "404d4a": "T", "4096bd": "T", "4026e9": "T", "42a604": "T", "429e7f": "F", "40a592": "F", "40c683": "F", "409fa4": "T", "402839": "T", "406cfb": "T", "42eaa0": "T", "42b1c9": "T", "41c398": "F", "4295cb": "F", "42cccd": "T", "42a022": "T", "406b64": "T", "402ffa": "F", "40b924": "T", "42a19c": "T", "42a221": "T", "42d9ae": "F", "402e05": "T", "416549": "T", "40a9e8": "T", "42a145": "T", "407c6b": "T", "4094d0": "T", "40b9cb": "T", "404d3a": "F", "40a649": "F", "40c4d9": "T", "411bf5": "F", "40b669": "T", "429548": "F", "42a402": "T", "4020c1": "T", "40cff4": "F", "406ecb": "T", "41a8d5": "T", "40aa24": "T", "4024fb": "T", "42cddb": "T", "42e030": "T", "402008": "T", "40ae45": "F", "40cdc5": "T", "429b4b": "F", "402643": "T", "40ef87": "F", "42443a": "F", "427ae8": "F", "4245d7": "F", "42cf66": "F", "40a116": "T", "404de9": "F", "401e74": "F", "4039f0": "T", "402394": "F", "41d6dd": "T", "4078a9": "T", "401919": "T", "40cef7": "T", "401f32": "T", "42a44b": "T", "42965d": "F", "42b2a3": "F", "41c92c": "F", "42abb1": "T", "41c913": "T", "407396": "T", "42986d": "T", "402284": "T", "407dcb": "F", "4248b3": "F", "40a84e": "T", "407489": "T", "4056f0": "F", "40a00f": "F", "42b2ca": "T", "402a10": "T", "40a8ea": "T", "4233c3": "F", "42cfa4": "T", "40ce66": "T", "40acd3": "T", "429fcb": "T", "42a123": "F", "4028e1": "T", "40a704": "F", "429e5f": "F", "407002": "T", "429ca7": "T", "409acc": "T", "407696": "T", "42bd20": "T", "41e458": "T", "402c12": "T", "401a97": "T", "41651b": "T", "40ae4b": "F", "402989": "T", "40b194": "T", "429c17": "T", "401ddf": "T", "42de3a": "T", "4277f0": "F", "40cd20": "T", "403c1b": "T", "408d77": "F", "41b37f": "T", "423288": "T", "402455": "T", "40927a": "T", "42cd54": "T", "401696": "T", "42a971": "T", "429dc0": "T", "403000": "F", "404e02": "T", "40ab2e": "F", "407163": "T", "414302": "F", "4061ca": "T", "40c616": "T", "42e408": "T", "42d0bf": "F", "402aa6": "F", "42b3a1": "T", "42edf8": "T", "403b4d": "T"} #vpr
+
+HAS_DOWN = False
+TIMEOUT_SEC = 50
+
+def kill(image):
+    has_kill = False
+    KILLIMAGE = "wmic process where name=\"%s\" call terminate" %image
+
+    while has_kill == False:
+      print "[-] killing " + image
+      subprocess.Popen(KILLIMAGE, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE).wait()
+      print "##kill cmd###\ntaskkill /T /F /IM " + image
+      subprocess.Popen("taskkill /T /F /IM " + image, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE).wait()
+      try:
+        open(TRACE, 'r')
+        has_kill = True
+      except:
+        has_kill = False
+      
+
+def timer():
+  for i in range(TIMEOUT_SEC):
+    if HAS_DOWN == False:
+      time.sleep(1)
+    else:
+      break
+
+  #if HAS_DOWN == False:
+  print ">>>>>>>>>>>>>>>TIME OUT<<<<<<<<<<<<<"
+  kill(sys.argv[1].split('\\')[-1])
+  kill("pin.exe")
+
+def main():
+  do_init()
+  explore_random_fork()
+
+def do_init():
+  global FORCE
+  global TRACE 
+  global RUNRANDOM
+  global DEPTMP
+  global DUMP_DEP
+
+  FORCE = r"C:\Users\test\Desktop\MyPinTool\force.txt"
+  TRACE = r'C:\Users\test\Desktop\MyPinTool\trace.txt'
+  RUNRANDOM = r"pin -t ./obj-ia32/MyPinTool.dll -- " + sys.argv[1]
+  DEPTMP = r"./buff_dep.txt"
+  DUMP_DEP = True
+
+  os.remove("./mem_dep.txt") if os.path.exists("./mem_dep.txt") else None
+
+def explore_random_fork():
+  global worklist
+  global fitness
+  global forcelist
+  global execution
+  global succ
+  global fail
+  global starttime
+  global useful_cnt
+
+  global insn_cov
+  global block_cov
+  global func_cov
+  global cg_cov
+  global dep_cov
+  global edge_cov
+
+  worklist = [[]]
+  fitness = set()
+  forcelist = set()
+  execution = 0
+  succ = 0
+  fail = 0
+  useful_cnt = 0
+  starttime = time.time()
+  dep_cov = set()
+
+  #forcelist.add(('40b5dc', 'T'))
+
+#  if len(BREAKPOINT) > 0:
+#    subprocess.Popen(DEBUG, shell=True)
+#  else:
+#    subprocess.Popen(RUN, shell=True)
+
+  while len(worklist) > 0:
+#    os.remove(INSNTMP) if os.path.exists(INSNTMP) else None
+#    os.remove(CGTMP) if os.path.exists(CGTMP) else None
+#    os.remove(DEPTMP) if os.path.exists(DEPTMP) else None
+    os.remove(FORCE) if os.path.exists(FORCE) else None
+    '''FORCE = PATH SCHEME'''
+#    os.remove(TRACE) if os.path.exists(TRACE) else None
+#    os.remove(ERRFLAG) if os.path.exists(ERRFLAG) else None
+  
+    #print worklist
+
+    switches = worklist.pop()
+ 
+    with open(FORCE, "w+") as f:
+      for (src, dest) in switches:
+        if dest == "T" or dest == "F":
+          line = src + ":" + dest + "\n"
+        """ restore when we use IDA-Pro to get the indirect call/jmp begin """
+        # elif src in jmptab:
+        #   line = src + "#" + dest + "\n"
+        # elif src in calltab:
+        #   line = src + "$" + dest + "\n"
+        """ restore when we use IDA-Pro to get the indirect call/jmp end """
+
+        f.write(line)
+
+    is_useful = False
+    execution += 1
+
+    for i in range(1):
+      ''' restore when we hook mem read/write'''
+     # os.remove(DEPTMP) if os.path.exists(DEPTMP) else None
+      os.remove(TRACE) if os.path.exists(TRACE) else None
+      
+      t_timer = threading.Thread(target=timer)
+      t_timer.start()
+
+      HAS_DOWN = False
+      subprocess.Popen(RUNRANDOM, shell=True).wait()
+      HAS_DOWN = True
+      t_timer.join()
+
+      ''' TRACE = FILE OF BRANCHES( insn:T or insn:F ) '''
+      preds = []
+      with open(TRACE, "r") as f:
+        for line in f:
+          if ":" in line :
+            (src, dest) = line.strip().split(':')
+            preds += [(src, dest)]
+            fitness.add((src, dest))
+          """ restore when we use IDA-Pro to get the indirect call/jmp begin """
+          # elif "#" in line:
+          #   (src, dest) = line.strip().split('#')
+          #   if not src in jmptab:
+          #     continue
+          #   preds += [(src, dest)]
+          # elif "$" in line:
+          #   (src, dest) = line.strip().split('$')
+          #   if not src in calltab:
+          #     continue
+          #   preds += [(src, dest)]
+          """ restore when we use IDA-Pro to get the indirect call/jmp end """
+  
+      """ restore when we hook the memory write/read begin """
+      # if DUMP_DEP == True:
+      #   dep_tmp = read_dep_tmp()
+      #   if not dep_tmp.issubset(dep_cov) :
+      #     is_useful = True
+      #   dep_cov = dep_cov.union(dep_tmp)
+      #   with open("./mem_dep.txt", "a+") as f :
+      #     f.write("%d:%d\n" % (execution, is_useful))
+      """ restore when we hook the memory write/read end """
+
+      if len(switches) > 0:
+        t = switches[-1]
+      else:
+        t = None
+
+      if t in preds:
+        index = preds.index(t)
+      else:
+        index = -1
+
+      preds = preds[index+1:]
+
+      srcs = set()
+      for (src, _) in switches:
+        srcs.add(src)
+
+      for (src, dest) in preds:
+        candidate = set()
+        
+        """ restore when we use IDA-Pro to get the indirect call/jmp begin """
+        # if src in jmptab:
+        #   for target in jmptab[src]:
+        #     if not (target == dest):
+        #       candidate.add(target)
+        # elif src in calltab:
+        #   for target in calltab[src]:
+        #     if not (target == dest):
+        #       candidate.add(target)
+        # elif src in BLACKHOLE:
+        """ restore when we use IDA-Pro to get the indirect call/jmp end """
+        if src in BLACKHOLE :
+          if not (dest == BLACKHOLE[src]):
+            candidate.add(BLACKHOLE[src])
+        else:#if src in insn_all:
+          if dest == "T":
+            candidate.add("F");
+          elif dest == "F":
+            candidate.add("T");
+
+        for target in candidate:
+          if (src not in BLACKHOLE) and (((src, target) in fitness) or (src in srcs)):
+            continue
+          new_switches = switches + [(src, target)]
+          worklist.append(new_switches)
+          fitness.add((src, target))
+
+    if is_useful == True :
+      useful_cnt += 1
+
+def do_analysis():
+  ''' may use IDAPython '''
+  pass
+
+""" restore when we hook memory read/write begin """
+def read_dep_tmp():
+  dep_tmp = set()
+
+  if not os.path.exists(DEPTMP):
+    print "[!] FATAL: cannot find DEPTMP"
+    return dep_tmp
+
+  with open(DEPTMP, "r") as f:
+    for line in f:
+      if "->" not in line:
+        continue
+      (use, define) = line.strip().split("->")
+      dep_tmp.add((use, define))
+
+  return dep_tmp
+""" restore when we hook memory read/write end """
+
+def usage():
+  print("usage: python pmp-random path/to/malware")
+
+if __name__ == "__main__":
+  if len(sys.argv) != 2:
+    usage()
+    exit(1)
+  main()

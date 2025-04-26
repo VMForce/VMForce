@@ -1,0 +1,18 @@
+_spooky_shorthash
+0x401570 jbe 0
+0x4015b2 jnb 1
+0x40167c jb 2
+_spooky_update
+0x402264 jnb 3
+0x4022e3 jnb 4
+0x4024fe jz 5
+0x4027d0 jnb 6
+_spooky_final
+0x4030fa jnb 7
+0x403240 jl 8
+_spooky_hash128
+0x4036b7 jnb 9
+0x40380d jnb 10
+_main
+0x403b20 jge 11
+Total count: 12

@@ -1,0 +1,30 @@
+[
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    },
+    {
+        "api": "IsDebuggerPresent",
+        "arguments": {}
+    }
+]

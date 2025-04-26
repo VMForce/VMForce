@@ -1,0 +1,2493 @@
+[
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " \"C:\\Users\\11989\\AppData\\Local\\Temp\\1804.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u7cfb\u7edf\u65e0\u6cd5\u5728\u6d88\u606f\u6587\u4ef6\u4e2d\u4e3a Application \u627e\u5230\u6d88\u606f\u53f7\u4e3a 0x40002712 \u7684\u6d88\u606f\u6587\u672c\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u7cfb\u7edf\u65e0\u6cd5\u5728\u6d88\u606f\u6587\u4ef6\u4e2d\u4e3a Application \u627e\u5230\u6d88\u606f\u53f7\u4e3a 0x236c \u7684\u6d88\u606f\u6587\u672c\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " \"C:\\Users\\11989\\AppData\\Local\\Temp\\1804.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "if ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "exist \"C:\\Users\\11989\\AppData\\Local\\Temp\\1804.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "goto",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " try ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " C:\\Windows\\system32\\Deleteme.bat ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u7cfb\u7edf\u65e0\u6cd5\u5728\u6d88\u606f\u6587\u4ef6\u4e2d\u4e3a Application \u627e\u5230\u6d88\u606f\u53f7\u4e3a 0x236c \u7684\u6d88\u606f\u6587\u672c\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "'C:\\Windows\\system32\\Deleteme.bat' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\r\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 505,
+                "ebx": 37175136,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 505,
+                "ebx": 35771664,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 505,
+                "ebx": 35771664,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x225bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35782656,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 506,
+                "ebx": 37699424,
+                "esi": 35127296,
+                "ecx": 36042956
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x225d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x225ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35782656,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 506,
+                "ebx": 36033808,
+                "esi": 35127296,
+                "ecx": 36042956
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x225c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x225d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35782656,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 506,
+                "ebx": 36033808,
+                "esi": 35127296,
+                "ecx": 36042956
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x225c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x223bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35651584,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 506,
+                "ebx": 37240672,
+                "esi": 35192832,
+                "ecx": 35911884
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x223d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x223ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35651584,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 506,
+                "ebx": 35902736,
+                "esi": 35192832,
+                "ecx": 35911884
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x223c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x223d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35651584,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 506,
+                "ebx": 35902736,
+                "esi": 35192832,
+                "ecx": 35911884
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x223c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x224bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35717120,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 507,
+                "ebx": 37961568,
+                "esi": 35127296,
+                "ecx": 35977420
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x224d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x224ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35717120,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 507,
+                "ebx": 35968272,
+                "esi": 35127296,
+                "ecx": 35977420
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x224c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x224d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35717120,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 507,
+                "ebx": 35968272,
+                "esi": 35127296,
+                "ecx": 35977420
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x224c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 509,
+                "ebx": 37633888,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 509,
+                "ebx": 35706128,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 509,
+                "ebx": 35706128,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 509,
+                "ebx": 37175136,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 509,
+                "ebx": 35837200,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 509,
+                "ebx": 35837200,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 510,
+                "ebx": 37175136,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 510,
+                "ebx": 35771664,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 510,
+                "ebx": 35771664,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 510,
+                "ebx": 37240672,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 510,
+                "ebx": 35771664,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 510,
+                "ebx": 35771664,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 512,
+                "ebx": 37175136,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 512,
+                "ebx": 35837200,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 512,
+                "ebx": 35837200,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x226bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35848192,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 512,
+                "ebx": 37437280,
+                "esi": 35192832,
+                "ecx": 36108492
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x226d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x226ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35848192,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 512,
+                "ebx": 36099344,
+                "esi": 35192832,
+                "ecx": 36108492
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x226c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x226d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35848192,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 512,
+                "ebx": 36099344,
+                "esi": 35192832,
+                "ecx": 36108492
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x226c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 513,
+                "ebx": 37240672,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 513,
+                "ebx": 35771664,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x221d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35520512,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 513,
+                "ebx": 35771664,
+                "esi": 35192832,
+                "ecx": 35780812
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x221c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 514,
+                "ebx": 37175136,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 514,
+                "ebx": 35837200,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x222d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35586048,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 514,
+                "ebx": 35837200,
+                "esi": 35258368,
+                "ecx": 35846348
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x222c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x223bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35651584,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 514,
+                "ebx": 37306208,
+                "esi": 35323904,
+                "ecx": 35911884
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x223d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x223ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35651584,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 514,
+                "ebx": 35902736,
+                "esi": 35323904,
+                "ecx": 35911884
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x223c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x223d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35651584,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 514,
+                "ebx": 35902736,
+                "esi": 35323904,
+                "ecx": 35911884
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x223c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 515,
+                "ebx": 37568352,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 515,
+                "ebx": 35706128,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 515,
+                "ebx": 35706128,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 515,
+                "ebx": 38027104,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 515,
+                "ebx": 35706128,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x220d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35454976,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 515,
+                "ebx": 35706128,
+                "esi": 35127296,
+                "ecx": 35715276
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x220c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x224bfd4",
+            "registers": {
+                "esp": 1703664,
+                "edi": 35717120,
+                "eax": 0,
+                "ebp": 1703700,
+                "edx": 518,
+                "ebx": 37699424,
+                "esi": 35389440,
+                "ecx": 35977420
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 87 59",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x224d4cf"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x224ccac",
+            "registers": {
+                "esp": 1703660,
+                "edi": 35717120,
+                "eax": 0,
+                "ebp": 1703708,
+                "edx": 518,
+                "ebx": 35968272,
+                "esi": 35389440,
+                "ecx": 35977420
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 0f e9 74 68",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x224c5e2"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x224d5ac",
+            "registers": {
+                "esp": 1703644,
+                "edi": 35717120,
+                "eax": 0,
+                "ebp": 1703716,
+                "edx": 518,
+                "ebx": 35968272,
+                "esi": 35389440,
+                "ecx": 35977420
+            },
+            "exception": {
+                "instruction_r": "00 00 e8 33 c0 5a 59 59 64 89 10 eb 2b e9 3c 65",
+                "instruction": "add byte ptr [eax], al",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x224c91a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "",
+            "registers": {
+                "esp": 1703624,
+                "edi": 37967388,
+                "eax": 51714,
+                "ebp": 37830679,
+                "edx": 37915674,
+                "ebx": 37830848,
+                "esi": 37553572,
+                "ecx": 4294966756
+            },
+            "exception": {
+                "instruction_r": "8a 1f 47 3a 5e 34 0f 85 77 ff ff ff 8b df 8b 03",
+                "instruction": "mov bl, byte ptr [edi]",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x223d78c"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 327680,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02190000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 327680,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x021e0000"
+        }
+    },
+    {
+        "api": "NtProtectVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "length": 4096,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "base_address": "0x75f1d000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02440000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02450000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02460000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02470000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02480000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02490000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024c0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024d0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024f0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02500000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02510000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02520000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02530000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02540000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02550000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02560000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02570000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02580000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02590000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025b0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025c0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025d0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x025f0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02600000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02610000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02620000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02630000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02640000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02650000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02660000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02670000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02680000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02690000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026a0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026b0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026c0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026d0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026e0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x026f0000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02700000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02710000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02720000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 5676,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02730000"
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x0074cbc0",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x0074c8a0",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x0084c7e0",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x008537d8",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x006d3648",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x008938c8",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x007d3878",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x007c35f8",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x007d3878",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x006436c0",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x007636c0",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x008d3788",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x00763698",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x00673800",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x007b37b0",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x00000000",
+            "display_name": "windows network",
+            "error_control": 0,
+            "service_name": "system",
+            "filepath": "C:\\Windows\\System32\\system.exe -NetSata",
+            "filepath_r": "C:\\Windows\\system32\\system.exe -NetSata",
+            "service_manager_handle": "0x008637b0",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002b4",
+            "suspend_count": 1,
+            "process_identifier": 7676
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002b4",
+            "suspend_count": 1,
+            "process_identifier": 8616
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000294",
+            "suspend_count": 1,
+            "process_identifier": 7804
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000294",
+            "suspend_count": 1,
+            "process_identifier": 8524
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7904
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 8432
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 8000
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 8336
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 6124
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 8200
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 6008
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7088
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7740
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 8144
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7924
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 8028
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 8156
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7892
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 1560
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7852
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7496
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7552
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7692
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 5996
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000278",
+            "suspend_count": 1,
+            "process_identifier": 7828
+        }
+    }
+]

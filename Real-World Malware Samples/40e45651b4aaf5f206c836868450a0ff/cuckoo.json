@@ -1,0 +1,171 @@
+[
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " \"C:\\Users\\11989\\AppData\\Local\\Temp\\1802.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "if ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "exist \"C:\\Users\\11989\\AppData\\Local\\Temp\\1802.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "goto",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " try ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " C:\\Windows\\DELME.BAT ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u7cfb\u7edf\u65e0\u6cd5\u5728\u6d88\u606f\u6587\u4ef6\u4e2d\u4e3a Application \u627e\u5230\u6d88\u606f\u53f7\u4e3a 0x236c \u7684\u6d88\u606f\u6587\u672c\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1802+0x17a70 @ 0x417a70\n1802+0x17a70 @ 0x417a70\n1802+0xa0804 @ 0x4a0804\n1802+0xa5e5d @ 0x4a5e5d\nBaseThreadInitThunk+0x19 FindResourceExW-0x197 kernel32+0x1fa29 @ 0x75f9fa29\nRtlGetAppContainerNamedObjectPath+0x11e RtlInitializeExceptionChain-0x12 ntdll+0x67a4e @ 0x77467a4e\nRtlGetAppContainerNamedObjectPath+0xee RtlInitializeExceptionChain-0x42 ntdll+0x67a1e @ 0x77467a1e",
+            "registers": {
+                "esp": 1703320,
+                "edi": 26,
+                "eax": 1703320,
+                "ebp": 1703408,
+                "edx": 0,
+                "ebx": 36255812,
+                "esi": 26,
+                "ecx": 7
+            },
+            "exception": {
+                "instruction_r": "8b 4c 24 54 33 cc e8 23 4e 00 00 8b e5 5d c2 10",
+                "symbol": "RaiseException+0x62 WerRegisterMemoryBlock-0x2e kernelbase+0x12a6e2",
+                "instruction": "mov ecx, dword ptr [esp + 0x54]",
+                "module": "KERNELBASE.dll",
+                "exception_code": "0xeedfade",
+                "offset": 1222370,
+                "address": "0x7547a6e2"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 2660,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02140000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 2660,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x024c0000"
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x005bd0a0",
+            "display_name": "Runlld32",
+            "error_control": 0,
+            "service_name": "Runlld32",
+            "filepath": "C:\\Windows\\runll.exe",
+            "filepath_r": "C:\\Windows\\runll.exe",
+            "service_manager_handle": "0x005bd3e8",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "LookupPrivilegeValueW",
+        "arguments": {
+            "system_name": "",
+            "privilege_name": "SeDebugPrivilege"
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x00000284",
+            "suspend_count": 1,
+            "process_identifier": 7696
+        }
+    }
+]

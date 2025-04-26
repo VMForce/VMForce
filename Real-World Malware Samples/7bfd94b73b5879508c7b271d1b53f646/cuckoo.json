@@ -1,0 +1,1275 @@
+[
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294963200,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294959104,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294955008,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294950912,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294946816,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294942720,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294938624,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294934528,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294930432,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294926336,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294922240,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294918144,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294914048,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294909952,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294905856,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294901760,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294897664,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294893568,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294889472,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294885376,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294881280,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294877184,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294873088,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294868992,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294864896,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294860800,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294856704,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294852608,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294848512,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294844416,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294840320,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294836224,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294832128,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294828032,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294823936,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294819840,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294815744,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294811648,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294807552,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294803456,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294799360,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294795264,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294791168,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294787072,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294782976,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294778880,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294774784,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294770688,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294766592,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "1031+0x13029 @ 0x413029\n0x19fec8",
+            "registers": {
+                "esp": 1703244,
+                "edi": 4282127,
+                "eax": 4273328,
+                "ebp": 1703528,
+                "edx": 4273006,
+                "ebx": 4294762496,
+                "esi": 4282127,
+                "ecx": 4273009
+            },
+            "exception": {
+                "instruction_r": "0f b7 03 35 78 56 34 12 3d 35 0c 34 12 eb 01 e8",
+                "symbol": "1031+0x1337a",
+                "instruction": "movzx eax, word ptr [ebx]",
+                "module": "1031.exe",
+                "exception_code": "0xc0000005",
+                "offset": 78714,
+                "address": "0x41337a"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 3124,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x01fe0000"
+        }
+    },
+    {
+        "api": "__anomaly__",
+        "arguments": {
+            "subcategory": "exception",
+            "tid": 600,
+            "message": "Encountered 65537 exceptions, quitting.",
+            "function_name": ""
+        }
+    }
+]

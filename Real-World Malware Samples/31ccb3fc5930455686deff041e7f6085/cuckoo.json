@@ -1,0 +1,23 @@
+[
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "BaseThreadInitThunk+0x19 FindResourceExW-0x197 kernel32+0x1fa29 @ 0x75f9fa29\nRtlGetAppContainerNamedObjectPath+0x11e RtlInitializeExceptionChain-0x12 ntdll+0x67a4e @ 0x77467a4e\nRtlGetAppContainerNamedObjectPath+0xee RtlInitializeExceptionChain-0x42 ntdll+0x67a1e @ 0x77467a1e",
+            "registers": {
+                "esp": 1703760,
+                "edi": 4820764,
+                "eax": 0,
+                "ebp": 1703792,
+                "edx": 4820764,
+                "ebx": 4819748,
+                "esi": 4820764,
+                "ecx": 4820764
+            },
+            "exception": {
+                "symbol": "",
+                "exception_code": "0xc0000005",
+                "address": "0xa6f08"
+            }
+        }
+    }
+]

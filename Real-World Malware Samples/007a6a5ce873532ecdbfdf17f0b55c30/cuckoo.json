@@ -1,0 +1,27 @@
+[
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x007a08e8",
+            "display_name": "Provisioning Transaction Service",
+            "error_control": 0,
+            "service_name": "pangupan",
+            "filepath": "C:\\Windows\\system325.exe",
+            "filepath_r": "C:\\Windows\\system325.exe",
+            "service_manager_handle": "0x007a07a8",
+            "desired_access": 983551,
+            "service_type": 16,
+            "password": ""
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002dc",
+            "suspend_count": 1,
+            "process_identifier": 6512
+        }
+    }
+]

@@ -1,0 +1,1 @@
+The generic deobfuscator cannot debofuscate any sample successfully. So the folder is empty.

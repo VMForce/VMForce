@@ -1,0 +1,34 @@
+[
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u7cfb\u7edf\u65e0\u6cd5\u5728\u6d88\u606f\u6587\u4ef6\u4e2d\u4e3a Application \u627e\u5230\u6d88\u606f\u53f7\u4e3a 0x236c \u7684\u6d88\u606f\u6587\u672c\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x007b8b38",
+            "display_name": "Remote SSDP Discovery Service",
+            "error_control": 0,
+            "service_name": "SSDPSERV",
+            "filepath": "C:\\Windows\\System32\\RpcS.exe",
+            "filepath_r": "C:\\Windows\\system32\\RpcS.exe",
+            "service_manager_handle": "0x007b8980",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000001cc",
+            "suspend_count": 1,
+            "process_identifier": 104
+        }
+    }
+]

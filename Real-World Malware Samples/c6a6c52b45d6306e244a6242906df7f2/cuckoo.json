@@ -1,0 +1,590 @@
+[
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " \"C:\\Users\\11989\\AppData\\Local\\Temp\\1522.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "if ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "exist \"C:\\Users\\11989\\AppData\\Local\\Temp\\1522.exe\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "goto",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " try ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "C:\\Users\\11989\\AppData\\Local\\Temp>",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "del",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": " \"C:\\Program Files\\Common Files\\Microsoft Shared\\MSINFO\\Delet.bat\" ",
+            "console_handle": "0x00000098"
+        }
+    },
+    {
+        "api": "WriteConsoleW",
+        "arguments": {
+            "buffer": "\u7cfb\u7edf\u65e0\u6cd5\u5728\u6d88\u606f\u6587\u4ef6\u4e2d\u4e3a Application \u627e\u5230\u6d88\u606f\u53f7\u4e3a 0x236c \u7684\u6d88\u606f\u6587\u672c\u3002\r\n",
+            "console_handle": "0x0000009c"
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x27b1b3e7500\nNew_kernel32_SetUnhandledExceptionFilter+0xa7 New_kernel32_SizeofResource-0x54 @ 0x50a0dc02\niexplore+0x2aa1 @ 0x7ff61b0f2aa1\niexplore+0x25d8 @ 0x7ff61b0f25d8\nBaseThreadInitThunk+0x14 WritePrivateProfileStringW-0xabc kernel32+0x17034 @ 0x7ffc1cf27034\nRtlUserThreadStart+0x21 TpReleaseCleanupGroupMembers-0x2f ntdll+0x52651 @ 0x7ffc1ede2651",
+            "registers": {
+                "r14": 0,
+                "r9": 140720826023936,
+                "rcx": 140694992661072,
+                "rsi": 0,
+                "r10": 140720826361425,
+                "rbx": 0,
+                "rdi": 0,
+                "r11": 893178344144,
+                "r8": 0,
+                "rdx": 893179458128,
+                "rbp": 0,
+                "r15": 0,
+                "r12": 0,
+                "rsp": 893178346992,
+                "rax": 2727761310976,
+                "r13": 0
+            },
+            "exception": {
+                "instruction_r": "48 ff 25 81 11 06 00 ff 25 00 00 00 00 07 fe f2",
+                "instruction": "jmp qword ptr [rip + 0x61181]",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x27b1b3e7500"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7272,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02100000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7272,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02360000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7728,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x00950000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7728,
+            "region_size": 4096,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02250000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7728,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02620000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7728,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0xffffffff",
+            "allocation_type": 4096,
+            "base_address": "0x02700000"
+        }
+    },
+    {
+        "api": "__exception__",
+        "arguments": {
+            "stacktrace": "0x27b1b3e7500\nNew_kernel32_SetUnhandledExceptionFilter+0xa7 New_kernel32_SizeofResource-0x54 @ 0x50a0dc02\niexplore+0x2aa1 @ 0x7ff61b0f2aa1\niexplore+0x25d8 @ 0x7ff61b0f25d8\nBaseThreadInitThunk+0x14 WritePrivateProfileStringW-0xabc kernel32+0x17034 @ 0x7ffc1cf27034\nRtlUserThreadStart+0x21 TpReleaseCleanupGroupMembers-0x2f ntdll+0x52651 @ 0x7ffc1ede2651",
+            "registers": {
+                "r14": 0,
+                "r9": 140720826023936,
+                "rcx": 140694992661072,
+                "rsi": 0,
+                "r10": 140720826361425,
+                "rbx": 0,
+                "rdi": 0,
+                "r11": 893178344144,
+                "r8": 0,
+                "rdx": 893179458128,
+                "rbp": 0,
+                "r15": 0,
+                "r12": 0,
+                "rsp": 893178346992,
+                "rax": 2727761310976,
+                "r13": 0
+            },
+            "exception": {
+                "instruction_r": "48 ff 25 81 11 06 00 ff 25 00 00 00 00 07 fe f2",
+                "instruction": "jmp qword ptr [rip + 0x61181]",
+                "exception_code": "0xc0000005",
+                "symbol": "",
+                "address": "0x27b1b3e7500"
+            }
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00400000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00450000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7952,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000288",
+            "allocation_type": 12288,
+            "base_address": "0x008e0000"
+        }
+    },
+    {
+        "api": "CreateServiceA",
+        "arguments": {
+            "service_start_name": "",
+            "start_type": 2,
+            "service_handle": "0x0075ce98",
+            "display_name": "Windows\u00d7\u00d4\u00b6\u00af\u00b8\u00fc\u00d0\u00c2\u00b7\u00fe\u00ce\u00f1",
+            "error_control": 0,
+            "service_name": "Windows\u00d7\u00d4\u00b6\u00af\u00b8\u00fc\u00d0\u00c2\u00b7\u00fe\u00ce\u00f1",
+            "filepath": "C:\\Program Files\\Common Files\\Microsoft Shared\\MSInfo\\rejoice45.exe",
+            "filepath_r": "C:\\Program Files\\Common Files\\Microsoft Shared\\MSINFO\\rejoice45.exe",
+            "service_manager_handle": "0x0075cfd8",
+            "desired_access": 983551,
+            "service_type": 272,
+            "password": ""
+        }
+    },
+    {
+        "api": "NtUnmapViewOfSection",
+        "arguments": {
+            "process_identifier": 7860,
+            "region_size": 4096,
+            "process_handle": "0x00000280",
+            "base_address": "0x00620000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00400000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00450000"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "buffer": "\u0000\u0000E\u0000",
+            "process_handle": "0x00000280",
+            "base_address": "0x00315008"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7952,
+            "buffer": "\u0000\u0000\u008e\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u00f4%3\u0002P\u00f09\u0002\u0088\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0094\u00fc\u0019\u0000\u00d7\u00e1H\u00008\u00fe\u0019\u0000\u0000\u00a0\r\u0000\u0000\u0000p\u0002\u00a0\u00fc\u0019\u0000\u0001\u00e2H\u0000\u0094\u00fc\u0019\u0000PsJ\u0000\u00f4qJ\u0000\u00e8$3\u0002\u0000\u00a0\r\u0000\u0000\u0000p\u0002\u00f8\u0001p\u0002\u0000\u0001p\u0002\u0000\u0000\u0000\u0000P\u00fe\u0019\u0000\u00aa\u00b7I\u00008\u00fe\u0019\u0000\u00ac\u00fc\u0019\u0000\u00c0\u00b7I\u0000P\u00fe\u0019\u0000\\\u00ff\u0019\u0000\u001a\u00b8I\u0000P\u00fe\u0019\u0000PsJ\u0000\u00f4qJ\u0000\u0000\u0000\u0095\u0000\u0000\u00f09\u0002\u00b8%3\u0002h%3\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00011\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018%3\u0002\u00cc$3\u0002\u00c8#3\u0002\u00a8$3\u0002\u001c$3\u0002\u00b8#3\u0002\u00d8#3\u0002\u00a0#3\u00024#3\u0002\u0084#3\u0002\u0018#3\u0002\u0014\b3\u0002\u00fc\"3\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u001f\u0000\u0000\u00e0%3\u0002\u00f4%3\u0002\u00e8$3\u00028$3\u0002\u0000\u0000\u0000\u0000h\u00ff\u0019\u0000o\u00e6I\u0000\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\tPM\u0000\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u0095\u0000\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\u0000\u0000\u00f9v\u0000\u0000\u0095\u0000\u008f\u00a4\u00edi\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\tPM\u0000\tPM\u0000\tPM\u0000\tPM\u0000\u0000\u0000\u00f9v\u0000\u0000\u0095\u0000\u008f\u00a4\u00edi\u0000\u0000\u00f9v\u0000\u0000\u00f9v\tPM\u0000\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\u0000\u0000\u00f9v\tPM\u0000\u0000\u0000\u0095\u0000\tPM\u0000\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\tPM\u0000\u0000\u0000\u00f9v\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\u008f\u00a4\u00ediPsJ\u0000\u00f4qJ\u0000\u00bchM\u0000l\u00ff\u0019\u0000\u00cc\u00ff\u0019\u0000\u00acG@\u0000h\u00ff\u0019\u0000\u00bchM\u0000\u0090\u0090\u0090\u0090\u0080\u00ff\u0019\u0000)\u00fa\u00f9u\u0000\u00e07\u0000\u0010\u00fa\u00f9u\u00dc\u00ff\u0019\u0000NzFw\u0000\u00e07\u0000S[\u00f4i\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e07\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u008c\u00ff\u0019\u0000\u0000\u0000\u0000\u0000\u00e4\u00ff\u0019\u0000\u0010\u00adGw\u001fb\u00bd\u001e\u0000\u0000\u0000\u0000\u00ec\u00ff\u0019\u0000\u001ezFw\u00ff\u00ff\u00ff\u00ff'\u0089Hw\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00benM\u0000\u0000\u00e07\u0000\u0000\u0000\u0000\u0000C\u0000:\u0000\\\u0000t\u0000m\u0000p\u0000k\u0000e\u0000y\u00002\u0000p\u0000f\u0000\\\u0000b\u0000i\u0000n\u0000\\\u0000m\u0000o\u0000n\u0000i\u0000t\u0000o\u0000r\u0000-\u0000x\u00008\u00006\u0000",
+            "process_handle": "0x00000288",
+            "base_address": "0x000da008"
+        }
+    },
+    {
+        "api": "NtSetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "registers": {
+                "eip": 2001162048,
+                "esp": 2030024,
+                "edi": 0,
+                "eax": 5402302,
+                "ebp": 0,
+                "edx": 0,
+                "ebx": 3231744,
+                "esi": 0,
+                "ecx": 0
+            },
+            "process_identifier": 7860
+        }
+    },
+    {
+        "api": "NtSetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "registers": {
+                "eip": 1,
+                "esp": 444928,
+                "edi": 64,
+                "eax": 10186430,
+                "ebp": 0,
+                "edx": 40894464,
+                "ebx": 892928,
+                "esi": 1703048,
+                "ecx": 1702996
+            },
+            "process_identifier": 7952
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002ac",
+            "suspend_count": 1,
+            "process_identifier": 7728
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002ac",
+            "suspend_count": 1,
+            "process_identifier": 8104
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "suspend_count": 1,
+            "process_identifier": 7860
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "suspend_count": 1,
+            "process_identifier": 7952
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002ac",
+            "suspend_count": 1,
+            "process_identifier": 7728
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x000002ac",
+            "suspend_count": 1,
+            "process_identifier": 8104
+        }
+    },
+    {
+        "api": "NtGetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c"
+        }
+    },
+    {
+        "api": "NtUnmapViewOfSection",
+        "arguments": {
+            "process_identifier": 7860,
+            "region_size": 4096,
+            "process_handle": "0x00000280",
+            "base_address": "0x00620000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00400000"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000280",
+            "allocation_type": 12288,
+            "base_address": "0x00450000"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "buffer": "\u0000\u0000E\u0000",
+            "process_handle": "0x00000280",
+            "base_address": "0x00315008"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7860,
+            "buffer": "",
+            "process_handle": "0x00000280",
+            "base_address": "0x00450000"
+        }
+    },
+    {
+        "api": "NtSetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "registers": {
+                "eip": 2001162048,
+                "esp": 2030024,
+                "edi": 0,
+                "eax": 5402302,
+                "ebp": 0,
+                "edx": 0,
+                "ebx": 3231744,
+                "esi": 0,
+                "ecx": 0
+            },
+            "process_identifier": 7860
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "suspend_count": 1,
+            "process_identifier": 7860
+        }
+    },
+    {
+        "api": "NtGetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c"
+        }
+    },
+    {
+        "api": "NtUnmapViewOfSection",
+        "arguments": {
+            "process_identifier": 7952,
+            "region_size": 2110447616,
+            "process_handle": "0x00000288",
+            "base_address": "0x023325f4"
+        }
+    },
+    {
+        "api": "NtAllocateVirtualMemory",
+        "arguments": {
+            "process_identifier": 7952,
+            "region_size": 892928,
+            "stack_dep_bypass": 0,
+            "stack_pivoted": 0,
+            "heap_dep_bypass": 0,
+            "protection": 64,
+            "process_handle": "0x00000288",
+            "allocation_type": 12288,
+            "base_address": "0x008e0000"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7952,
+            "buffer": "\u0000\u0000\u008e\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u00f4%3\u0002P\u00f09\u0002\u0088\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0094\u00fc\u0019\u0000\u00d7\u00e1H\u00008\u00fe\u0019\u0000\u0000\u00a0\r\u0000\u0000\u0000p\u0002\u00a0\u00fc\u0019\u0000\u0001\u00e2H\u0000\u0094\u00fc\u0019\u0000PsJ\u0000\u00f4qJ\u0000\u00e8$3\u0002\u0000\u00a0\r\u0000\u0000\u0000p\u0002\u00f8\u0001p\u0002\u0000\u0001p\u0002\u0000\u0000\u0000\u0000P\u00fe\u0019\u0000\u00aa\u00b7I\u00008\u00fe\u0019\u0000\u00ac\u00fc\u0019\u0000\u00c0\u00b7I\u0000P\u00fe\u0019\u0000\\\u00ff\u0019\u0000\u001a\u00b8I\u0000P\u00fe\u0019\u0000PsJ\u0000\u00f4qJ\u0000\u0000\u0000\u0095\u0000\u0000\u00f09\u0002\u00b8%3\u0002h%3\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00011\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018%3\u0002\u00cc$3\u0002\u00c8#3\u0002\u00a8$3\u0002\u001c$3\u0002\u00b8#3\u0002\u00d8#3\u0002\u00a0#3\u00024#3\u0002\u0084#3\u0002\u0018#3\u0002\u0014\b3\u0002\u00fc\"3\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u001f\u0000\u0000\u00e0%3\u0002\u00f4%3\u0002\u00e8$3\u00028$3\u0002\u0000\u0000\u0000\u0000h\u00ff\u0019\u0000o\u00e6I\u0000\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\tPM\u0000\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u0000\u0000\u0095\u0000\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\u0000\u0000\u00f9v\u0000\u0000\u0095\u0000\u008f\u00a4\u00edi\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\tPM\u0000\tPM\u0000\tPM\u0000\tPM\u0000\u0000\u0000\u00f9v\u0000\u0000\u0095\u0000\u008f\u00a4\u00edi\u0000\u0000\u00f9v\u0000\u0000\u00f9v\tPM\u0000\u0000\u0000\u00f9v\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\u0000\u0000\u00f9v\tPM\u0000\u0000\u0000\u0095\u0000\tPM\u0000\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u00f9v\u008f\u00a4\u00edi\u008f\u00a4\u00edi\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\tPM\u0000\u0000\u0000\u00f9v\u0000\u0000\u0095\u0000\u0000\u0000\u0095\u0000\u008f\u00a4\u00ediPsJ\u0000\u00f4qJ\u0000\u00bchM\u0000l\u00ff\u0019\u0000\u00cc\u00ff\u0019\u0000\u00acG@\u0000h\u00ff\u0019\u0000\u00bchM\u0000\u0090\u0090\u0090\u0090\u0080\u00ff\u0019\u0000)\u00fa\u00f9u\u0000\u00e07\u0000\u0010\u00fa\u00f9u\u00dc\u00ff\u0019\u0000NzFw\u0000\u00e07\u0000S[\u00f4i\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e07\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u008c\u00ff\u0019\u0000\u0000\u0000\u0000\u0000\u00e4\u00ff\u0019\u0000\u0010\u00adGw\u001fb\u00bd\u001e\u0000\u0000\u0000\u0000\u00ec\u00ff\u0019\u0000\u001ezFw\u00ff\u00ff\u00ff\u00ff'\u0089Hw\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00benM\u0000\u0000\u00e07\u0000\u0000\u0000\u0000\u0000C\u0000:\u0000\\\u0000t\u0000m\u0000p\u0000k\u0000e\u0000y\u00002\u0000p\u0000f\u0000\\\u0000b\u0000i\u0000n\u0000\\\u0000m\u0000o\u0000n\u0000i\u0000t\u0000o\u0000r\u0000-\u0000x\u00008\u00006\u0000",
+            "process_handle": "0x00000288",
+            "base_address": "0x000da008"
+        }
+    },
+    {
+        "api": "WriteProcessMemory",
+        "arguments": {
+            "process_identifier": 7952,
+            "buffer": "",
+            "process_handle": "0x00000288",
+            "base_address": "0x008e0000"
+        }
+    },
+    {
+        "api": "NtSetContextThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "registers": {
+                "eip": 1,
+                "esp": 444928,
+                "edi": 64,
+                "eax": 10186430,
+                "ebp": 0,
+                "edx": 40894464,
+                "ebx": 892928,
+                "esi": 1703048,
+                "ecx": 1702996
+            },
+            "process_identifier": 7952
+        }
+    },
+    {
+        "api": "NtResumeThread",
+        "arguments": {
+            "thread_handle": "0x0000025c",
+            "suspend_count": 1,
+            "process_identifier": 7952
+        }
+    }
+]
